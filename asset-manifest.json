@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-cinema/static/css/main.4f38fee3.css",
+    "main.js": "/react-cinema/static/js/main.88f33be8.js",
+    "index.html": "/react-cinema/index.html",
+    "static/media/search.svg": "/react-cinema/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.4f38fee3.css.map": "/react-cinema/static/css/main.4f38fee3.css.map",
+    "main.88f33be8.js.map": "/react-cinema/static/js/main.88f33be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f38fee3.css",
+    "static/js/main.88f33be8.js"
+  ]
+}
