@@ -1,6 +1,6 @@
 {
-  "homepage": "http://StefanLambic.github.io/react-universal-cinema",
-  "name": "react-universal-cinema",
+  "homepage": "http://StefanLambic.github.io/react-cinema",
+  "name": "react-cinema",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
