@@ -5,4 +5,4 @@
 - For any information about this project, feel free to contact me.
 
 - Feel free to upgrade it and send me a pull request.
-- If you want to see this project live in demo, click on this link: http://StefanLambic.github.io/react-universal-cinema
+- If you want to see this project live in demo, click on this link: https://stefanlambic.github.io/react-cinema/
